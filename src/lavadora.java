@@ -68,5 +68,6 @@ public class lavadora {
                     System.out.print("INGRESASTE UN DATOS ERRONEO");
 
             }
+            
         }
     }
